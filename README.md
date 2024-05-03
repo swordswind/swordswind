@@ -8,7 +8,7 @@ Hello! I'm a developer with a passion for Artificial Intelligence.
 
 ## Skills
 - Programming Languages: Python
-- Tools: Pycharm
+- Tools: PyCharm
 
 ## Projects
 - [AI Virtual Mate](#): A companion AI virtual digital human that organically integrates multimodal perception, various roles played by large language models (LLMs), GPT-SoVITS speech synthesis model, So-VITS-SVC voice conversion, and VRM motion models.
