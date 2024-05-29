@@ -11,7 +11,7 @@ Hello! I'm a developer with a passion for Artificial Intelligence.
 - Tools: PyCharm
 
 ## Projects
-- [AI Virtual Mate](#): A companion AI virtual digital human that organically integrates multimodal perception, various roles played by large language models (LLMs), GPT-SoVITS speech synthesis model, So-VITS-SVC voice conversion, and VRM motion models.
+- [edge_tts_ai_voice_box](#): An open-source text-to-speech tool developed based on the edge-tts library, providing users with a simple and easy-to-use graphical user interface (GUI).
 
 ## Connect with Me
 - Website: https://swordswind.github.io
