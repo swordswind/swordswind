@@ -1,5 +1,5 @@
 # SwordsWind
-Hello! I'm a developer with a passion for Artificial Intelligence.
+Hello! I'm a developer with a passion for Artificial Intelligence, and a member of the MVCH-AI Team open-source project team.
 
 ## About Me
 - 🔭 I’m currently working on SwordsWind_Tech_Studio.
@@ -16,3 +16,4 @@ Hello! I'm a developer with a passion for Artificial Intelligence.
 ## Connect with Me
 - Website: https://swordswind.github.io
 - Bilibli: https://space.bilibili.com/106439263
+- Email: swordswind@qq.com
