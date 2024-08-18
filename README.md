@@ -16,5 +16,5 @@ Hello! I'm a developer with a passion for Artificial Intelligence, and a member 
 
 ## Connect with Me
 - Website: https://swordswind.github.io
-- Bilibli: https://space.bilibili.com/106439263
+- Bilibili: https://space.bilibili.com/106439263
 - Email: swordswind@qq.com
