@@ -1,10 +1,10 @@
 # SwordsWind
-Hello! I'm a developer with a passion for Artificial Intelligence, and a member of the MVCH-AI Team open-source project team.
+Hello! I'm a developer with a passion for Artificial Intelligence, and a member of the MewCo-AI Team open-source project team.
 
 ## About Me
-- 🔭 I’m currently working on SwordsWind_Tech_Studio.
+- 🔭 I’m currently working on MeoCo-AI Studio.
 - 🌱 I’m currently learning Transformer.
-- 👯 I’m looking to collaborate on AI Virtual Mate Web.
+- 👯 I’m looking to collaborate on AI Virtual Mate.
 
 ## Skills
 - Programming Languages: Python
