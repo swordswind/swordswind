@@ -1,18 +1,25 @@
-# SwordsWind
-Hello! I'm a developer with a passion for Artificial Intelligence, and a member of the MewCo-AI Team open-source project team.
+# SwordsWind - AI Researcher
+Hello! I'm a researcher with a passion for Artificial Intelligence, and a member of the MewCo-AI Team open-source project team.
 
 ## About Me
-- 🔭 I’m currently working on MeoCo-AI Studio.
-- 🌱 I’m currently learning Transformer.
-- 👯 I’m looking to collaborate on AI Virtual Mate.
+- 🔭 I’m currently working on **MewCo-AI Studio**, an initiative aimed at accelerating the benefits of companion digital humans to humanity.
+- 🌱 I’m currently learning **Transformer models**, which are pivotal in the field of Natural Language Processing.
+- 👯 I’m looking to collaborate on **AI Virtual Mate**, a project that bridges the gap between games and reality, allowing users to enjoy quality time with their favorite characters.
 
 ## Skills
-- Programming Languages: Python
-- Tools: PyCharm
+- **Programming Languages**: Python, JavaScript
+- **Tools**: PyCharm, VSCode
+- **Frameworks**: Pytorch, TensorFlow, Transformers, Scikit-learn
 
 ## Projects
-- [ai_virtual_mate_web](#): A digital human chat software integrated with advanced artificial intelligence technology. It provides a platform for users to interact with virtual characters through a web interface. Users can access the web locally or through a local area network to enjoy a real-time voice interaction experience.
-- [edge_tts_ai_voice_box](#): An open-source text-to-speech tool developed based on the edge-tts library, providing users with a simple and easy-to-use graphical user interface (GUI).
+### AI Virtual Mate Web
+An open-source digital human chat software integrated with advanced artificial intelligence technology. It provides a platform for users to interact with virtual characters through a web interface. Users can access the web locally or through a local area network to enjoy a real-time voice interaction experience. [Learn More](https://github.com/swordswind/ai_virtual_mate_web)
+### AI Virtual Mate Explorer
+An advanced AI-powered digital human companion software that provides real-time conversation, multimodal image recognition, voice synthesis, active perception, character pets, and voice recognition. It aims to accelerate the benefits of companion digital humans to humanity. [Learn More](https://swordswind.github.io/2024/09/12/mateexp/)
+
+## Future Goals
+- To further develop AI Virtual Mate into a cross-platform application, integrating more advanced AI technologies such as natural language understanding, to provide a more realistic interaction experience.
+- To explore the potential of AI in gaming and virtual reality, creating immersive experiences that blend the digital and physical worlds seamlessly.
 
 ## Connect with Me
 - Website: https://swordswind.github.io
