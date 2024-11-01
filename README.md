@@ -2,7 +2,7 @@
 Hello! I'm a researcher with a passion for Artificial Intelligence, and a member of the MewCo-AI Team open-source project team.
 
 ## About Me
-- 🔭 I’m currently working on **MewCo-AI Studio**, an initiative aimed at accelerating the benefits of companion digital humans to humanity.
+- 🔭 I’m currently working on **MewCo-AI Studio**, a nonprofit organization aimed at accelerating the benefits of companion digital humans to humanity.
 - 🌱 I’m currently learning **Transformer models**, which are pivotal in the field of Natural Language Processing.
 - 👯 I’m looking to collaborate on **AI Virtual Mate**, a project that bridges the gap between games and reality, allowing users to enjoy quality time with their favorite characters.
 
