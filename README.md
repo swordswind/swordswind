@@ -14,12 +14,10 @@ Hello! I'm a researcher with a passion for Artificial Intelligence, and a member
 ## Projects
 ### AI Virtual Mate Web
 An open-source digital human chat software integrated with advanced artificial intelligence technology. It provides a platform for users to interact with virtual characters through a web interface. Users can access the web locally or through a local area network to enjoy a real-time voice interaction experience. [Learn More](https://github.com/swordswind/ai_virtual_mate_web)
+### AI Virtual Mate Linux
+A portable AI companion that supports local operation, designed to create a feature-rich and highly customizable virtual partner for Linux users. By integrating multiple artificial intelligence technologies, it realizes functions such as real-time realistic voice interaction, multimodal image recognition, multi-Agent intelligent agents, and Live2D/MMD 3D character display. [Learn More](https://github.com/swordswind/ai_virtual_mate_linux)
 ### AI Virtual Mate Explorer
 An advanced AI-powered digital human companion software that provides real-time conversation, multimodal image recognition, voice synthesis, active perception, character pets, and voice recognition. It aims to accelerate the benefits of companion digital humans to humanity. [Learn More](https://swordswind.github.io/2024/09/12/mateexp/)
-
-## Future Goals
-- To further develop AI Virtual Mate into a cross-platform application, integrating more advanced AI technologies such as natural language understanding, to provide a more realistic interaction experience.
-- To explore the potential of AI in gaming and virtual reality, creating immersive experiences that blend the digital and physical worlds seamlessly.
 
 ## Connect with Me
 - Website: https://swordswind.github.io
