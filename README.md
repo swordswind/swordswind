@@ -2,14 +2,15 @@
 Hello! I'm a researcher with a passion for Artificial Intelligence, and a member of the MewCo-AI Team open-source project team.
 
 ## About Me
-- 🔭 I’m currently working on **MewCo-AI Studio**, a nonprofit organization aimed at accelerating the benefits of companion digital humans to humanity.
-- 🌱 I’m proficient in **AI+ACG**, embedded hardware, and edge intelligence.
-- 👯 I’m looking to collaborate on **AI Virtual Mate**, a project that bridges the gap between games and reality, allowing users to enjoy quality time with their favorite characters.
+- 💼 I’m currently working on **MewCo-AI Studio**, a nonprofit organization aimed at accelerating the benefits of companion digital humans to humanity.
+- 📚 I’m proficient in **AI+ACG**, embedded hardware, and edge intelligence.
+- 🚀 I’m actively advancing the AI Virtual Mate project, which bridges the gap between the virtual world and reality and enables users to enjoy quality time with their favorite characters.
 
 ## Skills
-- **Programming Languages**: Python, JavaScript
-- **Tools**: PyCharm, VSCode
-- **Frameworks**: Pytorch, TensorFlow, Transformers, Scikit-learn
+- **Programming Languages**: Python, JavaScript, HTML
+- **Tools**: Linux, Ubuntu, Git, PyCharm, VSCode
+- **Frameworks**: Pytorch, TensorFlow, Transformers, Scikit-learn, ONNX, OpenCV
+- **Embedded Platform**: Raspberry Pi, Orange Pi, Jetson Orin
 
 ## Projects
 ### AI Virtual Mate Web
