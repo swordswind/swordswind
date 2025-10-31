@@ -4,7 +4,7 @@ Hello! I'm a researcher with a passion for Artificial Intelligence, and a member
 ## About Me
 - 💼 I’m currently working on **MewCo-AI Studio**, a nonprofit organization aimed at accelerating the benefits of companion digital humans to humanity.
 - 📚 I’m proficient in **AI+ACG**, embedded hardware, and edge intelligence.
-- 🚀 I’m actively advancing the AI Virtual Mate project, which bridges the gap between the virtual world and reality and enables users to enjoy quality time with their favorite characters.
+- 🚀 I’m actively advancing the **AI Virtual Mate** project, which bridges the gap between the virtual world and reality and enables users to enjoy quality time with their favorite characters.
 
 ## Skills
 - **Programming Languages**: Python, JavaScript, HTML
