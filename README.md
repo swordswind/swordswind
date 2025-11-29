@@ -14,7 +14,7 @@ Hello! I'm a researcher with a passion for Artificial Intelligence, and a member
 
 ## Projects
 ### AI Virtual Mate Web
-A Live2D/MMD 3D digital character chat software integrated with advanced artificial intelligence technology. Combining cutting-edge multimodal image recognition, real-time realistic voice interaction, short/long-term memory, customizable Live2D/MMD 3D models, and cloud/edge/terminal tri-mode AI engine technology, it delivers a natural and intimate communication experience for users. Devices within the same local area network can interact with virtual characters through a web interface. [Learn More](https://github.com/swordswind/ai_virtual_mate_web)
+A Live2D/MMD/VRM digital character chat software integrated with advanced artificial intelligence technology. Combining cutting-edge multimodal image recognition, real-time realistic voice interaction, customizable Live2D/MMD/VRM models, and cloud/edge/terminal tri-mode AI engine technology, it delivers a natural and intimate communication experience for users. Devices within the same local area network can interact with virtual characters through a web interface. [Learn More](https://github.com/swordswind/ai_virtual_mate_web)
 ### AI Virtual Mate Linux
 An AI companion supporting dual forms of mini box/robot car, designed to create a feature-rich and highly customizable virtual partner for Linux users. By integrating various artificial intelligence technologies, it realizes functions such as real-time realistic voice interaction, multimodal image recognition, multi-Agent systems, Live2D/MMD 3D character display, active perception dialogue, and robot control. [Learn More](https://github.com/swordswind/ai_virtual_mate_linux)
 ### AI Virtual Mate Explorer
